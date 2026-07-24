@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name": "my extension",
+    "version":"1.0",
+    "description":"myfirst chrome extention",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
